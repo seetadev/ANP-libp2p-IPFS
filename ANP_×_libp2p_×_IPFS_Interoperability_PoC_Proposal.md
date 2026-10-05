@@ -1,5 +1,11 @@
 # ANP × libp2p × IPFS Interoperability PoC Proposal
 
+## Authors
+
+@chgaowei, 
+
+Collaborators: @seetadev, @johannamoran
+
 ## 1. Goal
 
 The goal is to explore interoperability between ANP, libp2p, and IPFS, allowing agents to combine:
