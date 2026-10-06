@@ -2,9 +2,9 @@
 
 ## Authors
 
-@chgaowei, 
+@chgaowei, @seetadev
 
-Collaborators: @seetadev, @johannamoran
+Collaborators: @johannamoran
 
 ## 1. Goal
 
